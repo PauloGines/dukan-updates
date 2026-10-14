@@ -1,6 +1,6 @@
 {
-  "versao": "3.0.0",
-  "url": "",
-  "sha256": "",
+  "versao": "2.0.0",
+  "url": "https://github.com/PauloGines/dukan-updates/releases/download/v2.0.0/Dukan_2.0.0.zip",
+  "sha256": "9361BEE4C6F27576300A4F06CA66E0FDFB9CD634D107B0C9EF3CE492E1FF23D6",
   "novidades": "Segunda versão, Notificações, Machine Learning e Facturação Electronica funcionando"
 }
