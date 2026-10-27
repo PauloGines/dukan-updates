@@ -1,6 +1,6 @@
 {
-  "versao": "1.0.1",
-  "url": "https://github.com/PauloGines/dukan-updates/releases/download/1.0.1/Dukan_1.0.1.zip",
-  "sha256": "F9D78AFC9B5C72CF6428CE28F5015135F89A7E8FCA461B1501ED7F5C542803AD",
-  "novidades": "Melhoria no desempenho de visualização de documentos, nova funcionalidade para eliminar empresas e capacidade de impressão de documentos em diversas operações na tela Operações Gerais."
+  "versao": "1.0.2",
+  "url": "https://github.com/PauloGines/dukan-updates/releases/download/1.0.2/Dukan_1.0.2.zip",
+  "sha256": "4A19C7DB1FD87FF5467D8F21F8EF4F558A8D5CABFD9496164634642108F51FBF",
+  "novidades": "Quantidades certas, importação de Backup sem problemas, e no sino de notificações do menu inicial a capacidade de ver o porquê existe uma diferença nas quantidades ou finanças".
 }
