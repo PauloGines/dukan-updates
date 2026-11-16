@@ -1,6 +1,6 @@
 {
-  "versao": "1.0.2",
-  "url": "https://github.com/PauloGines/dukan-updates/releases/download/1.0.2/Dukan_1.0.2.zip",
-  "sha256": "4A19C7DB1FD87FF5467D8F21F8EF4F558A8D5CABFD9496164634642108F51FBF",
-  "novidades": "Quantidades certas, importação de Backup sem problemas, e no sino de notificações do menu inicial a capacidade de ver o porquê existe uma diferença nas quantidades ou finanças".
+  "versao": "1.0.3",
+  "url": "https://github.com/PauloGines/dukan-updates/releases/download/1.0.3/Dukan_1.0.3.zip",
+  "sha256": "3D0896E5EBE6398479671BDC3F26FBACB8B8EFB8887B5EE520B092663555B31F",
+  "novidades": "Correções nas Empresas, e forma de processamento".
 }
